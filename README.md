@@ -6,7 +6,7 @@ Apart from having the super-power of sitting on a desk and code for more than 24
 
 ## Technologies and Concepts interested In ⚡
 - Front-end development 👉 **HTML, CSS, Javascript**
-- Frameworks/Libraries 👉 **React.js, Redux, **
+- Frameworks/Libraries 👉 **React.js, Redux**
 - Other Tools/Softwares 👉 **Git, Github, Figma**
 - Backend development 👉 **Firebase**
 - Data Structures & Algorithms
