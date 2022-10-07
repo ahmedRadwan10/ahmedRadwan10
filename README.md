@@ -5,10 +5,10 @@ Undergraduate Software Engineer | Front-end Enthusiast | Knowledge Exchanger.
 
 
 ## Technologies and Concepts interested In ⚡
-- Front-end development 👉 **HTML, CSS, Javascript**
-- Frameworks/Libraries 👉 **React.js, Redux**
-- Other Tools/Softwares 👉 **Git, Github, Figma**
-- Backend development 👉 **Firebase**
+- Front-end development 👉  **HTML, CSS, Javascript**
+- Frameworks/Libraries  👉  **React.js, Redux**
+- Other Tools/Softwares 👉  **Git, Github, Figma**
+- Backend development   👉  **Firebase**
 - Data Structures & Algorithms
 - User Interface/User Experience
 
