@@ -1,5 +1,5 @@
 # Hi there 😃, I'm Ahmed Radwan
-Undergraduate Software Engineer | Front-end Enthusiast | Knowledge Exchanger.
+Undergraduate Software Engineer | Front-end Enthusiast.
 
 
 ## About 👇
